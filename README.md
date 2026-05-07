@@ -1,154 +1,138 @@
-<!-- ═══════════════════════════════════════════════
+<!-- ══════════════════════════════════════════════════
      ANDRELIS VILLAVICENCIO — GitHub Profile README
-     ═══════════════════════════════════════════════ -->
+     ══════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6B1F2A&height=220&section=header&text=Andrelis%20Villavicencio&fontSize=48&fontColor=F0E8DC&fontAlignY=38&desc=Python%20%C2%B7%20Bases%20de%20datos%20%C2%B7%20Desarrollo%20de%20software&descAlignY=56&descColor=D4C9B8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6B0F1A&height=240&section=header&text=Andrelis%20Villavicencio&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Data%20%7C%20Systems&descAlignY=56&descColor=CC2936&animation=fadeIn" width="100%"/>
 
-<!-- TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=8B2635&center=true&vCenter=true&width=600&lines=Estudiante+de+Inform%C3%A1tica+%40+INCAP+%F0%9F%87%BB%F0%9F%87%AA;Python+%C2%B7+Docker+%C2%B7+SQL+%C2%B7+MongoDB;Desarrollo+eficiente+%26+atenci%C3%B3n+al+detalle;Construyendo+proyectos+con+impacto+real+%E2%9C%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CC2936&center=true&vCenter=true&width=650&lines=Python+%7C+JavaScript+%7C+Node.js+%7C+SQL;Docker+%7C+AWS+%7C+Azure+%7C+Airflow;Bases+de+datos+%7C+Sistemas+%7C+Desarrollo+de+software;Construyendo+soluciones+que+escalan+%E2%9C%A6)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- BADGES SOCIALES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrelis_Villavicencio-6B1F2A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrelis-villavicencio-07b826295/)
-[![Email](https://img.shields.io/badge/Gmail-andrelisyazmin@gmail.com-6B1F2A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrelisyazmin@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-thisnotandrelis.github.io-6B1F2A?style=for-the-badge&logo=github&logoColor=white)](https://thisnotandrelis.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrelis_Villavicencio-CC2936?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrelis-villavicencio-07b826295/)
+[![Email](https://img.shields.io/badge/Gmail-andrelisyazmin@gmail.com-CC2936?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrelisyazmin@gmail.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-thisnotandrelis.github.io-CC2936?style=for-the-badge&logo=github&logoColor=white)](https://thisnotandrelis.github.io)
 
 </div>
 
 ---
 
-## 👩‍💻 &nbsp;Sobre mí
+## Sobre mí
 
-```python
-class Andrelis:
-    nombre      = "Andrelis Villavicencio"
-    ubicacion   = "Venezuela 🇻🇪"
-    educacion   = "Informática @ INCAP"
-    rol         = ["Estudiante de Informática", "Desarrolladora en formación"]
+Desarrolladora de software con formación en **Informática e Ingeniería en Análisis de Sistemas** — INCAP, Santiago de Chile.
 
-    stack = {
-        "lenguajes"  : ["Python", "SQL", "HTML", "CSS"],
-        "bases_datos": ["MongoDB", "PostgreSQL", "MySQL"],
-        "devops"     : ["Docker", "Git", "GitHub"],
-        "tools"      : ["Unity", "Blender", "Android Studio"],
-    }
+Trabajo con el stack completo: desde bases de datos relacionales y no relacionales hasta despliegue en la nube con AWS y Azure. Me especializo en construir sistemas eficientes, escalables y bien estructurados, con fuerte atención al detalle y enfoque en soluciones que resuelven problemas reales.
 
-    fortalezas = [
-        "Atención al detalle",
-        "Pensamiento analítico",
-        "Desarrollo eficiente",
-        "Desafíos constantes"
-    ]
-
-    def objetivo(self):
-        return "Construir proyectos útiles, bien hechos y con impacto real ✦"
-```
+Combino conocimiento técnico sólido con capacidad analítica para enfrentar desafíos complejos — desde el diseño de arquitectura hasta la implementación y el despliegue.
 
 ---
 
-## 🛠 &nbsp;Stack técnico
+## Stack técnico
 
 **Lenguajes**
 
-![Python](https://img.shields.io/badge/Python-F0E8DC?style=for-the-badge&logo=python&logoColor=6B1F2A)
-![HTML5](https://img.shields.io/badge/HTML5-F0E8DC?style=for-the-badge&logo=html5&logoColor=6B1F2A)
-![CSS3](https://img.shields.io/badge/CSS3-F0E8DC?style=for-the-badge&logo=css3&logoColor=6B1F2A)
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
+</p>
 
 **Bases de datos**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-F0E8DC?style=for-the-badge&logo=mongodb&logoColor=6B1F2A)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F0E8DC?style=for-the-badge&logo=postgresql&logoColor=6B1F2A)
-![MySQL](https://img.shields.io/badge/MySQL-F0E8DC?style=for-the-badge&logo=mysql&logoColor=6B1F2A)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
+</p>
 
-**DevOps & Herramientas**
+**DevOps & Cloud**
 
-![Docker](https://img.shields.io/badge/Docker-F0E8DC?style=for-the-badge&logo=docker&logoColor=6B1F2A)
-![Git](https://img.shields.io/badge/Git-F0E8DC?style=for-the-badge&logo=git&logoColor=6B1F2A)
-![GitHub](https://img.shields.io/badge/GitHub-F0E8DC?style=for-the-badge&logo=github&logoColor=6B1F2A)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+</p>
 
-**Desarrollo & Multimedia**
+**Herramientas & Plataformas**
 
-![Unity](https://img.shields.io/badge/Unity-F0E8DC?style=for-the-badge&logo=unity&logoColor=6B1F2A)
-![Blender](https://img.shields.io/badge/Blender-F0E8DC?style=for-the-badge&logo=blender&logoColor=6B1F2A)
-![Android Studio](https://img.shields.io/badge/Android_Studio-F0E8DC?style=for-the-badge&logo=androidstudio&logoColor=6B1F2A)
+<p>
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity"/>
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"/>
+</p>
 
-**UI / UX**
+**También trabajo con**
 
-![Figma](https://img.shields.io/badge/Figma-F0E8DC?style=for-the-badge&logo=figma&logoColor=6B1F2A)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-CC2936?style=flat-square&logo=apacheairflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2936?style=flat-square&logo=databricks&logoColor=white)
 
 ---
 
-## 📊 &nbsp;GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-eight-phi-sck7xvokgp.vercel.app/api?username=ThisnotAndrelis&show_icons=true&theme=dark&bg_color=0D0C0B&title_color=8B2635&text_color=D4C9B8&icon_color=6B1F2A&border_color=6B1F2A&border_radius=8&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="175" src="https://github-readme-stats-eight-phi-sck7xvokgp.vercel.app/api?username=ThisnotAndrelis&show_icons=true&theme=dark&bg_color=0D0C0B&title_color=CC2936&text_color=FFFFFF&icon_color=CC2936&border_color=CC2936&border_radius=6&count_private=true&include_all_commits=true&hide_border=false" alt="GitHub Stats"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats-eight-phi-sck7xvokgp.vercel.app/api/top-langs/?username=ThisnotAndrelis&layout=compact&theme=dark&bg_color=0D0C0B&title_color=8B2635&text_color=D4C9B8&border_color=6B1F2A&border_radius=8&langs_count=6" alt="Top Languages"/>
+<img height="175" src="https://github-readme-stats-eight-phi-sck7xvokgp.vercel.app/api/top-langs/?username=ThisnotAndrelis&layout=compact&theme=dark&bg_color=0D0C0B&title_color=CC2936&text_color=FFFFFF&border_color=CC2936&border_radius=6&langs_count=6&hide_border=false" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ThisnotAndrelis&theme=dark&background=0D0C0B&border=6B1F2A&stroke=6B1F2A&ring=8B2635&fire=8B2635&currStreakNum=F0E8DC&sideNums=D4C9B8&currStreakLabel=8B2635&sideLabels=8A8580&dates=5A5550&border_radius=8" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ThisnotAndrelis&theme=dark&background=0D0C0B&border=CC2936&stroke=CC2936&ring=CC2936&fire=FF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CC2936&sideLabels=999999&dates=666666&border_radius=6" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🌿 &nbsp;Actividad
+## Actividad
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThisnotAndrelis&bg_color=0D0C0B&color=D4C9B8&line=6B1F2A&point=8B2635&area=true&area_color=6B1F2A&hide_border=false&border_color=6B1F2A&radius=8)](https://github.com/ThisnotAndrelis)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThisnotAndrelis&bg_color=0D0C0B&color=FFFFFF&line=CC2936&point=FF4444&area=true&area_color=6B0F1A&hide_border=false&border_color=CC2936&radius=6)](https://github.com/ThisnotAndrelis)
 
 </div>
 
 ---
 
-## 📂 &nbsp;Proyectos destacados
+## Proyectos
 
 <div align="center">
 
-> 🚧 Próximamente — los proyectos se irán agregando aquí conforme los desarrolle.
+> En construcción — los proyectos se publican aquí conforme se desarrollan y completan.
 
-<!-- Cuando tengas proyectos, descomenta y completa:
-[![Repo](https://github-readme-stats-eight-phi-sck7xvokgp.vercel.app/api/pin/?username=ThisnotAndrelis&repo=NOMBRE-DEL-REPO&theme=dark&bg_color=0D0C0B&title_color=8B2635&text_color=D4C9B8&border_color=6B1F2A)](https://github.com/ThisnotAndrelis/NOMBRE-DEL-REPO)
+<!-- Cuando tengas proyectos listos, agrega así:
+<a href="https://github.com/ThisnotAndrelis/NOMBRE-REPO">
+  <img src="https://github-readme-stats-eight-phi-sck7xvokgp.vercel.app/api/pin/?username=ThisnotAndrelis&repo=NOMBRE-REPO&theme=dark&bg_color=0D0C0B&title_color=CC2936&text_color=FFFFFF&border_color=CC2936&border_radius=6"/>
+</a>
 -->
 
 </div>
 
 ---
 
-## 🔭 &nbsp;Actualmente
+## Formación
 
-- 📚 &nbsp;Estudiando **Informática en INCAP**
-- 🐍 &nbsp;Practicando **Python, Docker y bases de datos**
-- 🛠 &nbsp;Construyendo proyectos de **desarrollo de software**
-- 🌱 &nbsp;Aprendiendo sobre **sistemas, redes y arquitectura**
-- 💼 &nbsp;Disponible para **prácticas y colaboraciones**
+| Programa | Institución | Estado |
+|---|---|---|
+| Técnico en Informática | INCAP — Santiago de Chile | En curso |
+| Técnico Analista de Sistemas | INCAP — Santiago de Chile | En curso |
 
 ---
 
-## 📬 &nbsp;Hablemos
-
 <div align="center">
 
-*¿Tienes un proyecto en mente? Me interesa escucharte.*
+**Construyendo soluciones. Escribiendo código que importa.**
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CC2936?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrelis-villavicencio-07b826295/)
+[![Email](https://img.shields.io/badge/Email-CC2936?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrelisyazmin@gmail.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-CC2936?style=for-the-badge&logo=github&logoColor=white)](https://thisnotandrelis.github.io)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-6B1F2A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrelis-villavicencio-07b826295/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Escríbeme-6B1F2A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrelisyazmin@gmail.com)
-&nbsp;
-[![Portafolio](https://img.shields.io/badge/Portafolio-Visítalo-6B1F2A?style=for-the-badge&logo=github&logoColor=white)](https://thisnotandrelis.github.io)
-
-<br/>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6B1F2A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6B0F1A&height=120&section=footer" width="100%"/>
 
 </div>
