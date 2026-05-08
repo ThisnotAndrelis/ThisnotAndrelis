@@ -4,15 +4,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6B0F1A&height=240&section=header&text=Andrelis%20Villavicencio&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Data%20%7C%20Systems&descAlignY=56&descColor=CC2936&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0C0B&height=240&section=header&text=Andrelis%20Villavicencio&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Data%20%7C%20Systems&descAlignY=56&descColor=8B2635&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CC2936&center=true&vCenter=true&width=650&lines=Python+%7C+JavaScript+%7C+Node.js+%7C+SQL;Docker+%7C+AWS+%7C+Azure+%7C+Airflow;Bases+de+datos+%7C+Sistemas+%7C+Desarrollo+de+software;Construyendo+soluciones+que+escalan+%E2%9C%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B2635&center=true&vCenter=true&width=650&lines=Python+%7C+JavaScript+%7C+Node.js+%7C+SQL;Docker+%7C+AWS+%7C+Azure+%7C+Airflow;Bases+de+datos+%7C+Sistemas+%7C+Desarrollo+de+software;Construyendo+soluciones+que+escalan+%E2%9C%A6)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrelis_Villavicencio-CC2936?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrelis-villavicencio-07b826295/)
-[![Email](https://img.shields.io/badge/Gmail-andrelisyazmin@gmail.com-CC2936?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrelisyazmin@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-thisnotandrelis.github.io-CC2936?style=for-the-badge&logo=github&logoColor=white)](https://thisnotandrelis.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrelis_Villavicencio-6B1F2A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrelis-villavicencio-07b826295/)
+[![Email](https://img.shields.io/badge/Gmail-andrelisyazmin@gmail.com-6B1F2A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrelisyazmin@gmail.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-thisnotandrelis.github.io-6B1F2A?style=for-the-badge&logo=github&logoColor=white)](https://thisnotandrelis.github.io)
 
 </div>
 
@@ -69,8 +69,8 @@ Combino conocimiento técnico sólido con capacidad analítica para enfrentar de
 
 **También trabajo con**
 
-![Airflow](https://img.shields.io/badge/Apache_Airflow-CC2936?style=flat-square&logo=apacheairflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2936?style=flat-square&logo=databricks&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-6B1F2A?style=flat-square&logo=apacheairflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-6B1F2A?style=flat-square&logo=databricks&logoColor=white)
 
 ---
 
@@ -78,13 +78,13 @@ Combino conocimiento técnico sólido con capacidad analítica para enfrentar de
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats-eight-phi-sck7xvokgp.vercel.app/api?username=ThisnotAndrelis&show_icons=true&theme=dark&bg_color=0D0C0B&title_color=CC2936&text_color=FFFFFF&icon_color=CC2936&border_color=CC2936&border_radius=6&count_private=true&include_all_commits=true&hide_border=false" alt="GitHub Stats"/>
+<img height="175" src="https://github-readme-stats-eight-phi-sck7xvokgp.vercel.app/api?username=ThisnotAndrelis&show_icons=true&theme=dark&bg_color=0D0C0B&title_color=8B2635&text_color=FFFFFF&icon_color=8B2635&border_color=6B1F2A&border_radius=6&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 &nbsp;
-<img height="175" src="https://github-readme-stats-eight-phi-sck7xvokgp.vercel.app/api/top-langs/?username=ThisnotAndrelis&layout=compact&theme=dark&bg_color=0D0C0B&title_color=CC2936&text_color=FFFFFF&border_color=CC2936&border_radius=6&langs_count=6&hide_border=false" alt="Top Languages"/>
+<img height="175" src="https://github-readme-stats-eight-phi-sck7xvokgp.vercel.app/api/top-langs/?username=ThisnotAndrelis&layout=compact&theme=dark&bg_color=0D0C0B&title_color=8B2635&text_color=FFFFFF&border_color=6B1F2A&border_radius=6&langs_count=6" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ThisnotAndrelis&theme=dark&background=0D0C0B&border=CC2936&stroke=CC2936&ring=CC2936&fire=FF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CC2936&sideLabels=999999&dates=666666&border_radius=6" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ThisnotAndrelis&theme=dark&background=0D0C0B&border=6B1F2A&stroke=6B1F2A&ring=8B2635&fire=8B2635&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B2635&sideLabels=999999&dates=666666&border_radius=6" alt="GitHub Streak"/>
 
 </div>
 
@@ -94,7 +94,7 @@ Combino conocimiento técnico sólido con capacidad analítica para enfrentar de
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThisnotAndrelis&bg_color=0D0C0B&color=FFFFFF&line=CC2936&point=FF4444&area=true&area_color=6B0F1A&hide_border=false&border_color=CC2936&radius=6)](https://github.com/ThisnotAndrelis)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThisnotAndrelis&bg_color=0D0C0B&color=FFFFFF&line=6B1F2A&point=8B2635&area=true&area_color=4A1520&hide_border=false&border_color=6B1F2A&radius=6)](https://github.com/ThisnotAndrelis)
 
 </div>
 
@@ -104,13 +104,24 @@ Combino conocimiento técnico sólido con capacidad analítica para enfrentar de
 
 <div align="center">
 
-> En construcción — los proyectos se publican aquí conforme se desarrollan y completan.
-
-<!-- Cuando tengas proyectos listos, agrega así:
-<a href="https://github.com/ThisnotAndrelis/NOMBRE-REPO">
-  <img src="https://github-readme-stats-eight-phi-sck7xvokgp.vercel.app/api/pin/?username=ThisnotAndrelis&repo=NOMBRE-REPO&theme=dark&bg_color=0D0C0B&title_color=CC2936&text_color=FFFFFF&border_color=CC2936&border_radius=6"/>
+<a href="https://github.com/ThisnotAndrelis/Trabajos-frond-end">
+  <img src="https://github-readme-stats-eight-phi-sck7xvokgp.vercel.app/api/pin/?username=ThisnotAndrelis&repo=Trabajos-frond-end&theme=dark&bg_color=0D0C0B&title_color=8B2635&text_color=FFFFFF&icon_color=8B2635&border_color=6B1F2A&border_radius=6"/>
 </a>
--->
+<a href="https://github.com/ThisnotAndrelis/Trabajo-back-end-1-">
+  <img src="https://github-readme-stats-eight-phi-sck7xvokgp.vercel.app/api/pin/?username=ThisnotAndrelis&repo=Trabajo-back-end-1-&theme=dark&bg_color=0D0C0B&title_color=8B2635&text_color=FFFFFF&icon_color=8B2635&border_color=6B1F2A&border_radius=6"/>
+</a>
+<a href="https://github.com/ThisnotAndrelis/trabajo1_-mejorado-">
+  <img src="https://github-readme-stats-eight-phi-sck7xvokgp.vercel.app/api/pin/?username=ThisnotAndrelis&repo=trabajo1_-mejorado-&theme=dark&bg_color=0D0C0B&title_color=8B2635&text_color=FFFFFF&icon_color=8B2635&border_color=6B1F2A&border_radius=6"/>
+</a>
+<a href="https://github.com/ThisnotAndrelis/ultima_evaluacion">
+  <img src="https://github-readme-stats-eight-phi-sck7xvokgp.vercel.app/api/pin/?username=ThisnotAndrelis&repo=ultima_evaluacion&theme=dark&bg_color=0D0C0B&title_color=8B2635&text_color=FFFFFF&icon_color=8B2635&border_color=6B1F2A&border_radius=6"/>
+</a>
+<a href="https://github.com/ThisnotAndrelis/Holding_nuam_project">
+  <img src="https://github-readme-stats-eight-phi-sck7xvokgp.vercel.app/api/pin/?username=ThisnotAndrelis&repo=Holding_nuam_project&theme=dark&bg_color=0D0C0B&title_color=8B2635&text_color=FFFFFF&icon_color=8B2635&border_color=6B1F2A&border_radius=6"/>
+</a>
+<a href="https://github.com/ThisnotAndrelis/ultima_evaluacion_proyecto_integrado">
+  <img src="https://github-readme-stats-eight-phi-sck7xvokgp.vercel.app/api/pin/?username=ThisnotAndrelis&repo=ultima_evaluacion_proyecto_integrado&theme=dark&bg_color=0D0C0B&title_color=8B2635&text_color=FFFFFF&icon_color=8B2635&border_color=6B1F2A&border_radius=6"/>
+</a>
 
 </div>
 
@@ -129,10 +140,16 @@ Combino conocimiento técnico sólido con capacidad analítica para enfrentar de
 
 **Construyendo soluciones. Escribiendo código que importa.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CC2936?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrelis-villavicencio-07b826295/)
-[![Email](https://img.shields.io/badge/Email-CC2936?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrelisyazmin@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-CC2936?style=for-the-badge&logo=github&logoColor=white)](https://thisnotandrelis.github.io)
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6B0F1A&height=120&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B1F2A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrelis-villavicencio-07b826295/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-6B1F2A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrelisyazmin@gmail.com)
+&nbsp;
+[![Portafolio](https://img.shields.io/badge/Portafolio-6B1F2A?style=for-the-badge&logo=github&logoColor=white)](https://thisnotandrelis.github.io)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0C0B&height=120&section=footer" width="100%"/>
 
 </div>
